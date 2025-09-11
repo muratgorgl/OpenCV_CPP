@@ -1,0 +1,10 @@
+^D:\C++ OPENCV\08.CIRCLE&LINE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/C++ OpenCV/08.circle&line" "-BD:/C++ OpenCV/08.circle&line/build" --check-stamp-file "D:/C++ OpenCV/08.circle&line/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

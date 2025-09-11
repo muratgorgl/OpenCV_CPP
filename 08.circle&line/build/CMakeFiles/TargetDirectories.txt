@@ -1,0 +1,3 @@
+D:/C++ OpenCV/08.circle&line/build/CMakeFiles/OpenCVExample.dir
+D:/C++ OpenCV/08.circle&line/build/CMakeFiles/ALL_BUILD.dir
+D:/C++ OpenCV/08.circle&line/build/CMakeFiles/ZERO_CHECK.dir
