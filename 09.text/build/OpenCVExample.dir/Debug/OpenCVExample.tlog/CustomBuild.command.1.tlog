@@ -1,0 +1,10 @@
+^D:\C++ OPENCV\09.TEXT\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/C++ OpenCV/09.text" "-BD:/C++ OpenCV/09.text/build" --check-stamp-file "D:/C++ OpenCV/09.text/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
