@@ -1,0 +1,10 @@
+^D:\C++ OPENCV\06.LAPLACE\BUILD\CMAKEFILES\74223B84C9B3E04684A292E1FCC3A44E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/C++ OpenCV/06.Laplace" "-BD:/C++ OpenCV/06.Laplace/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/C++ OpenCV/06.Laplace/build/OpenCVExample.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

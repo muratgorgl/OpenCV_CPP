@@ -1,0 +1,3 @@
+D:/C++ OpenCV/06.Laplace/build/CMakeFiles/OpenCVExample.dir
+D:/C++ OpenCV/06.Laplace/build/CMakeFiles/ALL_BUILD.dir
+D:/C++ OpenCV/06.Laplace/build/CMakeFiles/ZERO_CHECK.dir
