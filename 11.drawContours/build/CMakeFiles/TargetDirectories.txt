@@ -1,0 +1,3 @@
+D:/C++ OpenCV/11.drawContours/build/CMakeFiles/OpenCVExample.dir
+D:/C++ OpenCV/11.drawContours/build/CMakeFiles/ALL_BUILD.dir
+D:/C++ OpenCV/11.drawContours/build/CMakeFiles/ZERO_CHECK.dir
