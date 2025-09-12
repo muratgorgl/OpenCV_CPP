@@ -1,0 +1,10 @@
+^D:\C++ OPENCV\13.WARPPERPECTIVE\BUILD\CMAKEFILES\7C8520CBFA2C46414770D4EC1E1C090F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/C++ OpenCV/13.warpPerpective" "-BD:/C++ OpenCV/13.warpPerpective/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/C++ OpenCV/13.warpPerpective/build/OpenCVExample.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

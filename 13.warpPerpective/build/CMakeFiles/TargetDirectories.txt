@@ -1,0 +1,3 @@
+D:/C++ OpenCV/13.warpPerpective/build/CMakeFiles/OpenCVExample.dir
+D:/C++ OpenCV/13.warpPerpective/build/CMakeFiles/ALL_BUILD.dir
+D:/C++ OpenCV/13.warpPerpective/build/CMakeFiles/ZERO_CHECK.dir
