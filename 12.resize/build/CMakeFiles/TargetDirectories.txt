@@ -1,0 +1,3 @@
+D:/C++ OpenCV/12.resize/build/CMakeFiles/OpenCVExample.dir
+D:/C++ OpenCV/12.resize/build/CMakeFiles/ALL_BUILD.dir
+D:/C++ OpenCV/12.resize/build/CMakeFiles/ZERO_CHECK.dir

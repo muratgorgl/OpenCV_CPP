@@ -1,0 +1,10 @@
+^D:\C++ OPENCV\12.RESIZE\BUILD\CMAKEFILES\557D917C37CE967DA909895B550A2126\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/C++ OpenCV/12.resize" "-BD:/C++ OpenCV/12.resize/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/C++ OpenCV/12.resize/build/OpenCVExample.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
